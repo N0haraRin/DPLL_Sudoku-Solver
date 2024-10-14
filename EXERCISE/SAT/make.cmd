@@ -1,0 +1,1 @@
+g++ CNFParser.cpp DPLLSolver.cpp main.cpp menu.cpp Sudoku.cpp -o main.exe
